@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "key": "000102030405060708090a0b0c0d0e0f",
+    "plaintext": "00112233445566778899aabbccddeeff",
+    "ciphertext": "d806bb5d2f09cdb8440f9d061e978fef",
+    "round_keys": [
+      "ee3f6b3f0f48188964bfbf65516d1de7",
+      "d26a7c3e8daa4a2e9ba9197fc661219c",
+      "e9f80e46446fc695a5ac20249ad41c41",
+      "8a818f21604f84261409636738b8d3f3",
+      "0dd707435ef61415b6d5bc318d89f77a"
+    ]
+  },
+  {
+    "id": 2,
+    "key": "0102030405060708090a0b0c0d0e0f10",
+    "plaintext": "031425364758697a8b9cadbecfe0f102",
+    "ciphertext": "3e736e45e796e5f7954938d39f8d68ee",
+    "round_keys": [
+      "39601b9ad66ec44ccf27e9a2c85eeed0",
+      "0610435b25935b4ff0c217ec20c4f6a9",
+      "f51193fb18399b7b59c4438743f5b54a",
+      "71cfca0680470ff817226da6cddbb9e8",
+      "5c6058ef4a275ded04bc0d22dc517154"
+    ]
+  },
+  {
+    "id": 3,
+    "key": "02030405060708090a0b0c0d0e0f1011",
+    "plaintext": "061728394a5b6c7d8e9fb0c1d2e3f405",
+    "ciphertext": "d04c1082717e6511a2068fe97f97b848",
+    "round_keys": [
+      "8cb109bb1bd6eb368c99cde03961b83d",
+      "a322c655530f1cc77e26351cdfed9b91",
+      "5caba585ea51259020a54681dff273cd",
+      "85f2ff751c86931d318d096a2a75328f",
+      "4dc3f8c11b89edad111d31a9bb38e045"
+    ]
+  },
+  {
+    "id": 4,
+    "key": "030405060708090a0b0c0d0e0f101112",
+    "plaintext": "091a2b3c4d5e6f8091a2b3c4d5e6f708",
+    "ciphertext": "d961320eaadefa0797339b9a971f35d6",
+    "round_keys": [
+      "fc14d09dc71340aeda5e54d3ea546f62",
+      "e901e8728e914cbd5efdda03187fe4c0",
+      "82504d1b37a5dbc851174e3ad3ef77a0",
+      "72ab1dd3e115d7c9576d410458f544b2",
+      "4726e28e46b5331bb05ebb79388194a8"
+    ]
+  },
+  {
+    "id": 5,
+    "key": "0405060708090a0b0c0d0e0f10111213",
+    "plaintext": "0c1d2e3f5061728394a5b6c7d8e9fa0b",
+    "ciphertext": "aefbbcabde8ad0af3043871a84ceb1ca",
+    "round_keys": [
+      "ee351d25e8690310fe1ca5ecce9edab3",
+      "0e1a29e33c3d141e9e277a5d90150bc7",
+      "7aeb14964afbd2c0c110ff5d224af9bb",
+      "56adb756592197be3edb0511d136c834",
+      "1887c45d615426c3e30d42d05214860e"
+    ]
+  }
+]
