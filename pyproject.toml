@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nlca-iot-cryptography"
+version = "1.0.0"
+description = "Reproducible experimental implementation and evaluation of NLCA"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "matplotlib>=3.8,<4",
+  "pycryptodome>=3.20,<4"
+]
+
+[project.scripts]
+nlca = "nlca.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["nlca*"]

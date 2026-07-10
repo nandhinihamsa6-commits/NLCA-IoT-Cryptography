@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript and this software release."
+title: "NLCA IoT Cryptography Reference Implementation"
+type: software
+authors:
+  - family-names: "Hamsanandhini"
+    given-names: "S."
+  - family-names: "Balasubramanie"
+    given-names: "P."
+version: 1.0.0
+date-released: 2026-07-10
+repository-code: "TO_BE_ADDED_AFTER_GITHUB_UPLOAD"
